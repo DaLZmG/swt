@@ -1,0 +1,28 @@
+
+#stage1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    border-radius: 15px;
+    min-width: 500px;
+    background-color: darkgrey;
+    transform: translate(-50%, -50%);
+}
+
+#payment-form {
+    padding: 20px;
+}
+
+#card-element {
+    padding: 20px;
+}
+
+#card-errors {
+    padding: 20px;
+}
+
+#submit {
+    min-height: 50px;
+    min-width: 150px;
+    padding: 20px;
+}
