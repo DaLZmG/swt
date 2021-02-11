@@ -1,2 +1,0 @@
-# swt
-Swt HTTPs
